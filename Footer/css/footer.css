@@ -1,0 +1,243 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
+
+/*for mobile*/
+
+*
+{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    text-align: center;
+}
+
+div
+{
+    text-align: center;
+}
+
+h3
+{
+    font-weight: 500;
+    margin-bottom:20px;
+}
+
+p
+{
+    font-size: 0.9em;
+}
+
+.team
+{
+    background-image:url("../images/middle.jpg");
+    text-align: center;
+    padding: 15% 0%;
+    width: 100%;
+}
+
+.team h2
+{
+    color: rgb(73, 73, 73);
+    font-size: 130%;
+    
+}
+
+.team p
+{
+    line-height: 25px;
+    margin:20px 20px 10px 20px;
+    color: rgb(129, 129, 129);
+}
+
+.team button
+{
+    padding:10px;
+    border: 2px solid rgba(73, 73, 73,0.7);
+    border-radius: 3px;
+    color: rgba(73, 73, 73,0.7);
+    background:rgba(255,255,255,0);
+    font-weight: 500;
+    font-size: 75%;
+    
+}
+
+.team button:hover
+{
+    background:#040425;
+    border:  2px solid #040425;
+    color:ivory;
+    cursor: pointer;
+    transition: .5s;
+}
+
+footer
+{
+    background:#09095e;
+    width:100%;
+    height:100%;
+    padding: 5% 0%;
+    color:ivory;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items:center;
+}
+
+footer div
+{
+    width: 30%;
+    padding: 10px 0px;
+}
+
+.q-links
+{
+    width: 100%;
+}
+
+.q-links li
+{
+    padding: 7px;
+    list-style:none;
+    font-size: 0.9em;
+    font-weight: 400;
+    
+}
+
+.q-links a
+{
+    color: #aaa;
+}
+
+.q-links a:hover
+{
+    text-decoration: none;
+    transition: .5s;
+}
+
+.q-links .active
+{
+    text-decoration: none;
+}
+
+.address
+{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: space-around;
+}
+
+.address img
+{   
+    text-align: center;
+    width: 20px;
+    padding-bottom: 5%;
+}
+
+.address p
+{
+    text-align: center;
+    line-height: 20px;
+    font-size: 0.8em;
+    color: #aaa;
+    
+}
+
+.social-media h2
+{
+    margin-bottom:20px;
+}
+
+.social-media p
+{
+    font-size: 0.8em;
+    line-height: 20px;
+    color: #aaa;
+}
+
+.social-media img
+{
+    padding: 5%;
+    width: 17px;
+}
+
+.social-media img:hover
+{
+    transform: translateY(-2px);
+    transition: 0.5s; 
+}
+
+/*for tablets*/
+
+@media only screen and (min-width: 660px)
+{
+    .team
+    {
+        padding: 10% 0%;
+    }
+
+    .q-links
+    {
+        width: 30%;
+    }
+
+    .address p
+    {
+        line-height: 30px;
+        font-size:0.9em;        
+    }
+
+    .social-media p
+    {
+        line-height: 30px;
+        font-size:0.9em;        
+    }
+
+    .social-media img
+    {
+        padding: 12px;
+        width: 20px;
+    }
+
+}
+
+/*for desktops*/
+
+@media only screen and (min-width: 992px)
+{
+    .team
+    {
+        padding: 7% 0%;
+    }
+
+    footer
+    {
+        padding: 3% 0%;
+    }
+
+    .address img
+    {
+        width: 7%;
+    }
+
+    .address p
+    {
+        line-height: 30px;
+        font-size:1em;
+        font-weight: 400;        
+    }
+
+    .social-media p
+    {
+        line-height: 30px;
+        font-size:1em;        
+    }
+
+    .social-media img
+    {
+        padding: 3%;
+        width: 7%;
+    }
+
+}
