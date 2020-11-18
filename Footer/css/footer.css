@@ -63,8 +63,8 @@ p
 
 .team button:hover
 {
-    background:#040425;
-    border:  2px solid #040425;
+    background:#09095E;
+    border:  2px solid #09095E;
     color:ivory;
     cursor: pointer;
     transition: .5s;
