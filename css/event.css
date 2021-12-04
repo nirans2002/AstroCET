@@ -87,29 +87,38 @@
 	width: 280px;
 }
 
-.events{
+.events {
 	background-image: url(/images/events_bg.svg);
-	padding-top: 16px;
-	height: 500px;
+	padding-top: 32px;
+	height: 1500px;
+
 }
 
-.events h1{
+.events h1 {
 	color: #ffffff;
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 45px;
 }
 
-.card{
+.event_cards {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin-top: 50px;
+	width: fit-screen-width;
+
+}
+
+.card {
 	height: 500px;
 	width: 300px;
 	padding: 6px;
-	
 	border: 5px #ffffff;
-	display: flex;
-	justify-content: space-around;
+	flex: 0 1 20%;
 }
-.card img{
+
+.card img {
 	height: 450px;
 	width: 400px;
-	filter: drop-shadow(2px 4px 8px #585858);
+	filter: drop-shadow(2px 20px 8px #555353);
 }
