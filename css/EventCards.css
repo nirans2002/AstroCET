@@ -2,7 +2,7 @@
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
   color: #ffffff;
   float: left;
-  font-family: 'Lato', Arial, sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 16px;
   margin: 10px 1%;
   max-width: 310px;
@@ -32,6 +32,7 @@
   position: absolute;
   bottom: 0;
   z-index: 1;
+  opacity: 0.95;
 }
 
 .snip1527 figcaption:before {
@@ -112,4 +113,19 @@ img {
 
 img {
   border-radius: 5px;
+}
+
+textbutton{
+  /* background-color: #ff2759; */
+  border-radius: 2px;
+  border: 2px solid #ffffff;
+  color: #fff;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  line-height: 1.2em;
+  margin-top: 10px;
+  padding: 10px 20px;
+  text-transform: uppercase;
 }
