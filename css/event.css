@@ -1,0 +1,79 @@
+.violet{
+	background-color:#2b0b4b;
+	color:#ffffff;
+	height:300px;
+	}
+	.white1{
+	background-color:#ffffff;
+	height:100px;
+	}
+	.orange{
+	background-color:#8528a1;
+	height:300px;
+	}
+	.white2{
+	background-color:white;
+	height:100px;
+	}
+	.green{
+	background-color:#c770f0;
+	height:300px;
+	position:relative;
+	}
+	.events button{
+		margin-top: 175px;
+		padding:10px 50px;
+		border: 2px solid rgba(255, 255, 255, 1);
+		border-radius: 3px;
+		color: rgb(255, 255, 255);
+		background:rgba(255, 255, 255, 0);
+		font-weight: 500;
+		font-size: 75%;
+	}
+
+	.events button:hover
+{
+    background:#ffffff;
+    border:  2px solid #ffffff;
+    color:#2b0b4b;
+    cursor: pointer;
+    transition: .5s;
+}
+	.events h2{
+	font-face:Calibri;
+	text-align:center;
+	font-size:30px;
+	padding:80px;
+	}
+	.odyssey{
+	border:5px solid #ffffff;
+	position:absolute;
+	top:950px;
+	left:400px;
+	height:300px;
+	width:280px;
+	}
+	.astrowiz{
+	border:5px solid #ffffff;
+	position:absolute;
+	top:950px;
+	left:850px;
+	height:300px;
+	width:275px;
+	}
+	.estrella{
+	border:5px solid #ffffff;
+	position:absolute;
+	height:250px;
+	width:280px;
+	top:1350px;
+	left:400px;
+	}
+	.name{
+	border:5px solid #ffffff;
+	position:absolute;
+	top:1350px;
+	left:850px;
+	height:300px;
+	width:280px;
+	}
