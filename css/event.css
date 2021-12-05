@@ -45,7 +45,7 @@
 }
 
 .events h2 {
-	font-face: Calibri;
+	font-family: Calibri;
 	text-align: center;
 	font-size: 30px;
 	padding: 80px;
@@ -128,7 +128,8 @@
 }
 
 .events_research {
-	background-image: url(/images/events_bg_flip.svg);
+	background-image: url(/images/research_bg.jpg);
+	background-size: cover;
 	padding-top: 32px;
 	height: 1000px;
 
