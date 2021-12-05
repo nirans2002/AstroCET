@@ -90,7 +90,7 @@
 .events {
 	background-image: url(/images/events_bg.svg);
 	padding-top: 32px;
-	height: 1500px;
+	height: 1000px;
 
 }
 
@@ -106,6 +106,7 @@
 	justify-content: space-between;
 	margin-top: 50px;
 	width: fit-screen-width;
+	height: inherit;
 
 }
 
@@ -124,4 +125,16 @@
 	height: 450px;
 	width: 400px;
 	/* filter: drop-shadow(2px 20px 8px #555353); */
+}
+
+.events_research {
+	background-image: url(/images/events_bg_flip.svg);
+	padding-top: 32px;
+	height: 1000px;
+
+}
+.events_research h1 {
+	color: #ffffff;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 45px;
 }

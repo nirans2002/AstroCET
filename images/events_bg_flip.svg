@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2000"
+   height="2000"
+   viewBox="0 0 800 800"
+   version="1.1"
+   id="svg170"
+   sodipodi:docname="events_bg_flip.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs174" />
+  <sodipodi:namedview
+     id="namedview172"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.074069435"
+     inkscape:cx="-1586.3493"
+     inkscape:cy="641.29016"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg170" />
+  <rect
+     fill="#000322"
+     width="800"
+     height="800"
+     id="rect2" />
+  <g
+     fill="none"
+     stroke-opacity="1"
+     id="g168"
+     transform="matrix(1,0,0.02040816,-1,-8.1632653,800)">
+    <g
+       stroke="#660459"
+       stroke-width="17"
+       id="g10">
+      <line
+         x1="-8"
+         y1="-8"
+         x2="808"
+         y2="808"
+         id="line4" />
+      <line
+         x1="-8"
+         y1="792"
+         x2="808"
+         y2="1608"
+         id="line6" />
+      <line
+         x1="-8"
+         y1="-808"
+         x2="808"
+         y2="8"
+         id="line8" />
+    </g>
+    <g
+       stroke="#620457"
+       stroke-width="16"
+       id="g20">
+      <line
+         x1="-8"
+         y1="767"
+         x2="808"
+         y2="1583"
+         id="line12" />
+      <line
+         x1="-8"
+         y1="17"
+         x2="808"
+         y2="833"
+         id="line14" />
+      <line
+         x1="-8"
+         y1="-33"
+         x2="808"
+         y2="783"
+         id="line16" />
+      <line
+         x1="-8"
+         y1="-783"
+         x2="808"
+         y2="33"
+         id="line18" />
+    </g>
+    <g
+       stroke="#5d0455"
+       stroke-width="15"
+       id="g30">
+      <line
+         x1="-8"
+         y1="742"
+         x2="808"
+         y2="1558"
+         id="line22" />
+      <line
+         x1="-8"
+         y1="42"
+         x2="808"
+         y2="858"
+         id="line24" />
+      <line
+         x1="-8"
+         y1="-58"
+         x2="808"
+         y2="758"
+         id="line26" />
+      <line
+         x1="-8"
+         y1="-758"
+         x2="808"
+         y2="58"
+         id="line28" />
+    </g>
+    <g
+       stroke="#590453"
+       stroke-width="14"
+       id="g40">
+      <line
+         x1="-8"
+         y1="67"
+         x2="808"
+         y2="883"
+         id="line32" />
+      <line
+         x1="-8"
+         y1="717"
+         x2="808"
+         y2="1533"
+         id="line34" />
+      <line
+         x1="-8"
+         y1="-733"
+         x2="808"
+         y2="83"
+         id="line36" />
+      <line
+         x1="-8"
+         y1="-83"
+         x2="808"
+         y2="733"
+         id="line38" />
+    </g>
+    <g
+       stroke="#540450"
+       stroke-width="13"
+       id="g50">
+      <line
+         x1="-8"
+         y1="92"
+         x2="808"
+         y2="908"
+         id="line42" />
+      <line
+         x1="-8"
+         y1="692"
+         x2="808"
+         y2="1508"
+         id="line44" />
+      <line
+         x1="-8"
+         y1="-108"
+         x2="808"
+         y2="708"
+         id="line46" />
+      <line
+         x1="-8"
+         y1="-708"
+         x2="808"
+         y2="108"
+         id="line48" />
+    </g>
+    <g
+       stroke="#50044e"
+       stroke-width="12"
+       id="g60">
+      <line
+         x1="-8"
+         y1="667"
+         x2="808"
+         y2="1483"
+         id="line52" />
+      <line
+         x1="-8"
+         y1="117"
+         x2="808"
+         y2="933"
+         id="line54" />
+      <line
+         x1="-8"
+         y1="-133"
+         x2="808"
+         y2="683"
+         id="line56" />
+      <line
+         x1="-8"
+         y1="-683"
+         x2="808"
+         y2="133"
+         id="line58" />
+    </g>
+    <g
+       stroke="#4c044c"
+       stroke-width="11"
+       id="g70">
+      <line
+         x1="-8"
+         y1="642"
+         x2="808"
+         y2="1458"
+         id="line62" />
+      <line
+         x1="-8"
+         y1="142"
+         x2="808"
+         y2="958"
+         id="line64" />
+      <line
+         x1="-8"
+         y1="-158"
+         x2="808"
+         y2="658"
+         id="line66" />
+      <line
+         x1="-8"
+         y1="-658"
+         x2="808"
+         y2="158"
+         id="line68" />
+    </g>
+    <g
+       stroke="#480449"
+       stroke-width="10"
+       id="g80">
+      <line
+         x1="-8"
+         y1="167"
+         x2="808"
+         y2="983"
+         id="line72" />
+      <line
+         x1="-8"
+         y1="617"
+         x2="808"
+         y2="1433"
+         id="line74" />
+      <line
+         x1="-8"
+         y1="-633"
+         x2="808"
+         y2="183"
+         id="line76" />
+      <line
+         x1="-8"
+         y1="-183"
+         x2="808"
+         y2="633"
+         id="line78" />
+    </g>
+    <g
+       stroke="#440447"
+       stroke-width="9"
+       id="g90">
+      <line
+         x1="-8"
+         y1="592"
+         x2="808"
+         y2="1408"
+         id="line82" />
+      <line
+         x1="-8"
+         y1="192"
+         x2="808"
+         y2="1008"
+         id="line84" />
+      <line
+         x1="-8"
+         y1="-608"
+         x2="808"
+         y2="208"
+         id="line86" />
+      <line
+         x1="-8"
+         y1="-208"
+         x2="808"
+         y2="608"
+         id="line88" />
+    </g>
+    <g
+       stroke="#400445"
+       stroke-width="8"
+       id="g100">
+      <line
+         x1="-8"
+         y1="567"
+         x2="808"
+         y2="1383"
+         id="line92" />
+      <line
+         x1="-8"
+         y1="217"
+         x2="808"
+         y2="1033"
+         id="line94" />
+      <line
+         x1="-8"
+         y1="-233"
+         x2="808"
+         y2="583"
+         id="line96" />
+      <line
+         x1="-8"
+         y1="-583"
+         x2="808"
+         y2="233"
+         id="line98" />
+    </g>
+    <g
+       stroke="#3c0442"
+       stroke-width="7"
+       id="g110">
+      <line
+         x1="-8"
+         y1="242"
+         x2="808"
+         y2="1058"
+         id="line102" />
+      <line
+         x1="-8"
+         y1="542"
+         x2="808"
+         y2="1358"
+         id="line104" />
+      <line
+         x1="-8"
+         y1="-558"
+         x2="808"
+         y2="258"
+         id="line106" />
+      <line
+         x1="-8"
+         y1="-258"
+         x2="808"
+         y2="558"
+         id="line108" />
+    </g>
+    <g
+       stroke="#380340"
+       stroke-width="6"
+       id="g120">
+      <line
+         x1="-8"
+         y1="267"
+         x2="808"
+         y2="1083"
+         id="line112" />
+      <line
+         x1="-8"
+         y1="517"
+         x2="808"
+         y2="1333"
+         id="line114" />
+      <line
+         x1="-8"
+         y1="-533"
+         x2="808"
+         y2="283"
+         id="line116" />
+      <line
+         x1="-8"
+         y1="-283"
+         x2="808"
+         y2="533"
+         id="line118" />
+    </g>
+    <g
+       stroke="#34033d"
+       stroke-width="5"
+       id="g130">
+      <line
+         x1="-8"
+         y1="292"
+         x2="808"
+         y2="1108"
+         id="line122" />
+      <line
+         x1="-8"
+         y1="492"
+         x2="808"
+         y2="1308"
+         id="line124" />
+      <line
+         x1="-8"
+         y1="-308"
+         x2="808"
+         y2="508"
+         id="line126" />
+      <line
+         x1="-8"
+         y1="-508"
+         x2="808"
+         y2="308"
+         id="line128" />
+    </g>
+    <g
+       stroke="#30033b"
+       stroke-width="4"
+       id="g140">
+      <line
+         x1="-8"
+         y1="467"
+         x2="808"
+         y2="1283"
+         id="line132" />
+      <line
+         x1="-8"
+         y1="317"
+         x2="808"
+         y2="1133"
+         id="line134" />
+      <line
+         x1="-8"
+         y1="-333"
+         x2="808"
+         y2="483"
+         id="line136" />
+      <line
+         x1="-8"
+         y1="-483"
+         x2="808"
+         y2="333"
+         id="line138" />
+    </g>
+    <g
+       stroke="#2c0338"
+       stroke-width="3"
+       id="g150">
+      <line
+         x1="-8"
+         y1="342"
+         x2="808"
+         y2="1158"
+         id="line142" />
+      <line
+         x1="-8"
+         y1="442"
+         x2="808"
+         y2="1258"
+         id="line144" />
+      <line
+         x1="-8"
+         y1="-458"
+         x2="808"
+         y2="358"
+         id="line146" />
+      <line
+         x1="-8"
+         y1="-358"
+         x2="808"
+         y2="458"
+         id="line148" />
+    </g>
+    <g
+       stroke="#280236"
+       stroke-width="2"
+       id="g160">
+      <line
+         x1="-8"
+         y1="367"
+         x2="808"
+         y2="1183"
+         id="line152" />
+      <line
+         x1="-8"
+         y1="417"
+         x2="808"
+         y2="1233"
+         id="line154" />
+      <line
+         x1="-8"
+         y1="-433"
+         x2="808"
+         y2="383"
+         id="line156" />
+      <line
+         x1="-8"
+         y1="-383"
+         x2="808"
+         y2="433"
+         id="line158" />
+    </g>
+    <g
+       stroke="#250133"
+       stroke-width="1"
+       id="g166">
+      <line
+         x1="-8"
+         y1="392"
+         x2="808"
+         y2="1208"
+         id="line162" />
+      <line
+         x1="-8"
+         y1="-408"
+         x2="808"
+         y2="408"
+         id="line164" />
+    </g>
+  </g>
+</svg>
