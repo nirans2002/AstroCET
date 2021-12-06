@@ -62,7 +62,7 @@
 }
 
 .event_section{
-	background-image: url(images/events_bg.svg);
+	background-image: url(../images/events_bg.svg);
     background-position:center;
 	padding-top: 32px;
 	
@@ -82,7 +82,7 @@
 
 
 .events_research_section {
-	background-image: url(images/research_bg.jpg);
+	background-image: url(../images/research_bg.jpg);
     background-position:center;
 	background-size: cover;
 	padding-top: 32px;
